@@ -4,5 +4,5 @@
 
 ## 🚀 About Me
 
-- 💻 **C / Lua** developper.
+- 💻 **C / C++** developper.
 - 🔧 **Student** of 42 School
