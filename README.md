@@ -1,29 +1,27 @@
 <h1 align="center">Hi, I'm Lorenzo ! 👋</h1>
 
 ###
-<br clear="both">
 
-<h6 align="left">👨‍💻 Devops passionate</h6>
-
-###
-
-<h6 align="left">👨‍🎓 42 Student @ Perpignan</h6>
+<h5 align="left">👨‍💻 Devops passionate</h5>
 
 ###
 
-<h6 align="left">💻 C / C++ Developer</h6>
+<h5 align="left">👨‍🎓 42 Student @ Perpignan</h5>
 
 ###
 
+<h5 align="left">💻 C / C++ Developer</h5>
+
+###
 <h2 align="center">📖Projects</h2>
 
 ###
 
-<h6 align="left">⚡Shell: [Minishell](https://github.com/CafeurOff/Minishell)
+<h5 align="left">⚡Shell: https://github.com/CafeurOff/Minishell - A shell in C </h5>
   
 ###
 
-<h6 align="left">🎮 Game: [Beggin](https://beggin.fr) - Garry's Mod server pushed on the American roleplay.</h6>
+<h5 align="left">🎮 Game: https://beggin.fr - Garry's Mod server pushed on the American roleplay.</h5>
 
 ###
 
@@ -31,19 +29,18 @@
 
 ###
 
-<h6 align="left">📃42 School since 2022</h6>
+<h5 align="left">📃42 School since 2022</h5>
 
 ###
 
-<h6 align="left">💼Production Manager at Beggin</h6>
+<h5 align="left">💼Production Manager at Beggin</h5>
 
 ###
-
 <h2 align="center">📞 Contacts</h2>
 
 ###
 
-<h6 align="left">✉️ Mail : cafeur@beggin.fr</h6>
+<h5 align="left">✉️ Mail : cafeur@beggin.fr</h5>
 
 ###
 
