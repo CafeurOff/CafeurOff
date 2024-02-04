@@ -68,8 +68,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CafeurOff&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=fr&hide_border=false&order=1&custom_title=Statistiques" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CafeurOff&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&custom_title=Language" height="150" alt="languages graph"  />
 
-[![lduthill's 42 stats](https://badge.mediaplus.ma/darkblue/Lduthill?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/lduthill)
-
   
 </div>
 
