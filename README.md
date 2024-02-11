@@ -21,7 +21,7 @@
   
 ###
 
-<h5 align="left">🎮 Game: https://beggin.fr - Garry's Mod server pushed on the American roleplay.</h5>
+<h5 align="left">🎮 Game: https://beggin.fr - Garry's Mod server based on the American roleplay.</h5>
 
 ###
 
