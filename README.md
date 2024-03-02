@@ -22,7 +22,7 @@
   
 ###
 
-<h5 align="left">🕹️ Cub3D - https://github.com/CafeurOff/Minishell - 3D Game in C </h5>
+<h5 align="left">🕹️ Cub3D - https://github.com/CafeurOff/Cub3D - 3D Game in C </h5>
 
 ###
 
