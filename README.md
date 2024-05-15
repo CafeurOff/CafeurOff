@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">💻 C / C++ Developer</h5>
+<h5 align="left">💻 C / C++ / Web Developer</h5>
 
 ###
 <h2 align="center">📖Projects</h2>
@@ -26,7 +26,11 @@
 
 ###
 
-<h5 align="left">🎮 Game: https://beggin.fr - Garry's Mod server based on the American roleplay.</h5>
+<h5 align="left">🕸️Website: https://github.com/CafeurOff/ft_transcendence - A website based on Pong game </h5>
+
+###
+
+<h5 align="left">🎮 Enterprise: https://beggin.net -  Custom IT solutions </h5>
 
 ###
 
@@ -64,7 +68,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/debian.svg" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/bootstrap.svg" height="40" alt="boostrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/django.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/docker.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
