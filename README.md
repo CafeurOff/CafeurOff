@@ -6,11 +6,11 @@
 
 ###
 
-<h5 align="left">👨‍🎓 42 Alumnie @ Perpignan</h5>
+<h5 align="left">👨‍🎓 42 Alumni @ Perpignan</h5>
 
 ###
 
-<h5 align="left">💻 C / C++ / Web Developer </h5>
+<h5 align="left">💻 C / C++ / Web Developer / React </h5>
 
 ###
 <h2 align="center">📖Projects</h2>
