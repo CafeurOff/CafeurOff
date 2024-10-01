@@ -49,7 +49,7 @@
 
 ###
 
-<h5 align="left">✉️ Mail : cafeur@beggin.fr</h5>
+<h5 align="left">✉️ Mail : lduthill@icloud.com</h5>
 
 ###
 
