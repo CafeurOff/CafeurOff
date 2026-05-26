@@ -1,103 +1,108 @@
-<h1 align="center">👋 Hey, I'm Lorenzo Duthilleul</h1>
+<h1 align="center">Lorenzo Duthilleul</h1>
 
-<h3 align="center">CEO @ <a href="https://www.omexis.fr">Omexis</a> | Full Stack Web Developer | 42 Alumni</h3>
-
-<p align="center">
-  <a href="mailto:lduthill@icloud.com">📧 lduthill@icloud.com</a> • 
-  <a href="https://www.linkedin.com/in/lduthill">💼 LinkedIn</a> • 
-  <a href="https://lorenzoduthilleul.tech">🌐 Portfolio</a>
-</p>
-
----
-
-<h2 align="center">🚀 About Me</h2>
+<h3 align="center">
+SaaS Developer & Software Engineer
+</h3>
 
 <p align="center">
-I'm a <b>21-year-old Full Stack Developer</b> from France, passionate about technology, problem-solving, and clean design.<br>
-I specialize in building <b>modern, efficient, and scalable web platforms</b> using the latest technologies.<br>
-As a <b>42 School Alumni</b> and <b>freelance developer</b>, I combine technical expertise with real-world project management through my company <a href="https://www.omexis.fr">Omexis</a>.
+Building scalable web applications, automation systems and digital products.
+</p>
+
+<p align="center">
+  <a href="https://www.omexis.fr">Omexis</a> •
+  <a href="https://invoice.omexis.fr">Omexis Invoice</a> •
+  <a href="https://www.linkedin.com/in/lduthill">LinkedIn</a> •
+  <a href="mailto:lduthill@icloud.com">Contact</a>
 </p>
 
 ---
 
-<h2 align="center">🧠 Skills & Tech Stack</h2>
+## About Me
 
-<ul align="left">
-  <li>💻 <b>Languages:</b> C, C++, JavaScript, Python, C#, Shell</li>
-  <li>🧩 <b>Frameworks & Libraries:</b> React, Django, Node.js, EJS, Tailwind CSS, Bootstrap, Next.js, Vite</li>
-  <li>⚙️ <b>DevOps:</b> Docker, CI/CD, DigitalOcean, Git/GitHub</li>
-  <li>🗄️ <b>Databases:</b> PostgreSQL, MySQL, SQLite</li>
-  <li>💿 <b>Systems:</b> Linux (Debian/Ubuntu), macOS</li>
-</ul>
+Full Stack Developer and founder of Omexis.
+
+I design and build scalable SaaS applications, automation tools and modern web platforms focused on performance, usability and real-world business needs.
+
+My background combines:
+- low-level programming (C/C++)
+- modern web technologies
+- backend architecture
+- UI/UX development
+- DevOps & deployment
+
+I enjoy building products from idea to production with a strong focus on clean architecture and efficient systems.
 
 ---
 
-<h2 align="center">💼 Experience</h2>
+## Tech Stack
 
-<h4>🚀 CEO & Full Stack Developer — <a href="https://www.omexis.fr">Omexis</a> (2023 - Present)</h4>
-<p>
-Design and development of <b>custom digital solutions</b> for businesses.  
-→ Full Stack React / Django applications • REST APIs • E-commerce • UI/UX • Cloud Deployment  
+### Languages
+C • C++ • JavaScript • Python • SQL
+
+### Frontend
+React • Next.js • Tailwind CSS • Vite
+
+### Backend
+Node.js • Django • REST APIs
+
+### DevOps
+Docker • CI/CD • Linux • DigitalOcean
+
+### Databases
+PostgreSQL • MySQL • SQLite
+
+---
+
+## Featured Projects
+
+### Omexis Invoice
+SaaS invoicing platform with automation, OCR and multi-currency support.
+
+→ https://invoice.omexis.fr
+
+---
+
+### Minishell
+POSIX-compliant shell written in C with process and memory management.
+
+→ https://github.com/CafeurOff/Minishell
+
+---
+
+### Cub3D
+3D raycasting engine inspired by Wolfenstein built entirely in C.
+
+→ https://github.com/CafeurOff/Cub3D
+
+---
+
+### ft_transcendence
+Real-time multiplayer web platform with OAuth2 authentication and chat system.
+
+→ https://github.com/CafeurOff/ft_transcendence
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CafeurOff&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CafeurOff&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
-<h4>🎯 Full Stack Developer — Beggin (2023 - Present)</h4>
-<p>
-Development of web platforms and management tools.  
-→ Web architecture • Front-end design • Project management  
+---
+
+## Interests
+
+- SaaS & Product Development
+- Automation Systems
+- Performance Optimization
+- Simulation & Motorsport Technologies
+- Real-Time Systems
+
+---
+
+<p align="center">
+  <i>Building tools that solve real problems.</i>
 </p>
-
-<h4>🧱 Web Developer Intern — Veolia France (2024 - 2025)</h4>
-<p>
-Developed and optimized internal tools for operational teams.  
-→ Django back-end • React/Tailwind front-end • CI/CD pipelines  
-</p>
-
-<h4>🏫 Alumni — 42 Perpignan (2022 - 2024)</h4>
-<p>
-Intensive training in <b>C, C++, networking, and algorithms</b> through peer-to-peer learning.  
-→ Focused on autonomy, efficiency, and problem-solving  
-</p>
-
----
-
-<h2 align="center">⚡ Notable Projects</h2>
-
-<h4>🧠 <a href="https://github.com/CafeurOff/Minishell">Minishell</a></h4>
-<p>A POSIX-compliant shell written in C, handling complex process management.</p>
-
-<h4>🕹️ <a href="https://github.com/CafeurOff/Cub3D">Cub3D</a></h4>
-<p>A 3D raycasting engine inspired by Wolfenstein 3D, built entirely in C.</p>
-
-<h4>🌐 <a href="https://github.com/CafeurOff/ft_transcendence">ft_transcendence</a></h4>
-<p>Web platform based on Pong with real-time multiplayer, OAuth2 authentication, and chat system.</p>
-
-<h4>💼 <a href="https://beggin.net">Beggin</a></h4>
-<p>Custom IT solutions for local businesses — from idea to deployment.</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CafeurOff&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&custom_title=My%20Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CafeurOff&layout=compact&theme=dark&hide_border=false&langs_count=6" height="150" />
-</div>
-
----
-
-<h2 align="center">🧰 Tools I Use</h2>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-</div>
-
----
-
-<h3 align="center">✨ "Building elegant and efficient tech — one project at a time." ✨</h3>
