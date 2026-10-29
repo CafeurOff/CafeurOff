@@ -16,6 +16,10 @@
 
 <p align="center"><sub>Perpignan, France · École 42 · Shipping to production since 2023</sub></p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CafeurOff&label=profile%20views&color=663BE0&style=flat-square" alt="Profile views">
+</p>
+
 ---
 
 ### Right now
@@ -82,11 +86,37 @@ Where I learned to read man pages before Stack Overflow.
 
 ### What I work with
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,js,react,vite,tailwind,postgres,redis,celery&perline=9" alt="Python, Django, JavaScript, React, Vite, Tailwind, PostgreSQL, Redis, Celery"><br>
+  <img src="https://skillicons.dev/icons?i=linux,nginx,githubactions,cloudflare,sentry,prometheus,grafana,docker,bash&perline=9" alt="Linux, nginx, GitHub Actions, Cloudflare, Sentry, Prometheus, Grafana, Docker, Bash"><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,nodejs,express,mysql,stripe&perline=9" alt="C, C++, Node.js, Express, MySQL, Stripe">
+</p>
+
 **Daily** &nbsp; Python · Django · DRF · JavaScript · React · Vite · TanStack Query · Tailwind · PostgreSQL · Redis · Celery
 
 **Production** &nbsp; Debian · nginx · systemd · GitHub Actions · Cloudflare Pages & Workers · Sentry · Prometheus · Grafana
 
 **Also** &nbsp; C · C++ · Node.js / Express · MySQL · Docker · Stripe · MCP · Bash
+
+---
+
+### Activity
+
+<sub>Most commits land in private repos; they are counted here.</sub>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=CafeurOff&hide_border=true&background=00000000&ring=967AFA&fire=967AFA&currStreakLabel=967AFA&sideLabels=E6E6EA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A1A1AA&stroke=3F3F46&locale=en">
+    <img src="https://streak-stats.demolab.com?user=CafeurOff&hide_border=true&background=00000000&ring=663BE0&fire=663BE0&currStreakLabel=663BE0&sideLabels=27272A&currStreakNum=18181B&sideNums=18181B&dates=71717A&stroke=E4E4E7&locale=en" alt="GitHub contribution streak">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CafeurOff/CafeurOff/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/CafeurOff/CafeurOff/output/github-snake.svg" alt="Contribution graph eaten by a snake">
+  </picture>
+</p>
 
 ---
 
